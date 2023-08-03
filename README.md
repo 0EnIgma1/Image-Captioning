@@ -15,4 +15,3 @@ The model is trained on 'Flickr8k' dataset.
 
   A roadmap to visualize my process of building this Model.
 
-## Sample Outputs
