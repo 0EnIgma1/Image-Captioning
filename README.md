@@ -9,7 +9,7 @@ The model is trained on 'Flickr8k' dataset.
 - Encoder output is passed into Transformers Decoder along with text sequences to generate new captions
 
   
-<p align = "center">
+<p align = "left">
   <img width = 800 src = "https://github.com/0EnIgma1/Image-Captioning/blob/main/roadmap.png"
 </p>
 
