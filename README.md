@@ -12,4 +12,4 @@ workflow:
 <p align = "center">
   <img width = 800 src = "https://github.com/0EnIgma1/Image-Captioning/blob/main/roadmap.png"
 </p>
->- A roadmap to visualize my process of building this Model.
+> - A roadmap to visualize my process of building this Model.
